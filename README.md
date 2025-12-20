@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔹 I'm currently working on:<br>Building full-stack applications using Java Spring Boot + React, and creating a 3D brain tumor visualization system integrated with deep-learning tumor detection models.<br><br>🔹 I'm looking to collaborate on:<br>AI/ML healthcare projects, scalable full-stack web apps, and innovative productivity tools with modern software engineering principles.<br><br>🔹 I'm looking for help with:<br>Advanced Spring Boot architecture patterns, optimizing medical-imaging pipelines, and improving Python logic for competitions like Code Strom.<br><br>🔹 I'm currently learning:<br>Java full-stack development (Spring Boot, MongoDB, React), Python logic building, and converting web apps into desktop software using Electron + PyInstaller.<br><br>🔹 Ask me about:<br>AI in healthcare, Spring Boot backend design, React development, productivity app ideas, action games, cricket (especially BGT 2018), and startup research.<br><br>🔹 Fun fact:<br>I can talk about cricket, AI, or startups anytime—pick a topic and I’m ready.
+About Me
+
+🔹 I’m currently working on:
+Building scalable full-stack applications using Java Spring Boot and React, with a focus on clean architecture, performance, and real-world problem solving.
+
+🔹 I’m looking to collaborate on:
+AI/ML-driven applications, scalable web platforms, and innovative productivity tools built using modern software-engineering best practices.
+
+🔹 I’m looking for help with:
+Advanced Spring Boot architecture patterns, backend performance optimization, system design fundamentals, and improving Python logic and problem-solving skills for coding competitions like Code Strom.
+
+🔹 I’m currently learning:
+Java full-stack development (Spring Boot, MongoDB, React), Python logic building, and converting web applications into desktop software using Electron and PyInstaller.
+
+🔹 Ask me about:
+Spring Boot backend design, React development, full-stack project structuring, productivity app ideas, cricket (especially BGT 2018), action games, and startup research.
+
+🔹 Fun fact:
+I enjoy deep technical discussions—whether it’s engineering, startups, or cricket, I’m always ready to talk.
 
 
 ## 🌐 Socials:
