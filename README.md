@@ -13,7 +13,7 @@ Advanced Spring Boot architecture patterns, backend performance optimization, sy
 Java full-stack development (Spring Boot, MongoDB, React), Python logic building, and converting web applications into desktop software using Electron and PyInstaller.
 
 🔹 Ask me about:
-Spring Boot backend design, React development, full-stack project structuring, productivity app ideas, cricket (especially BGT 2018), action games, and startup research.
+Spring Boot backend design, React development, full-stack project structuring, productivity app ideas, cricket , action games, and startup research.
 
 🔹 Fun fact:
 I enjoy deep technical discussions—whether it’s engineering, startups, or cricket, I’m always ready to talk.
