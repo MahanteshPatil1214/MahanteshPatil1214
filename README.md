@@ -82,17 +82,6 @@ Full-Stack & Backend Engineer specializing in Java 21, Spring Boot 3, Microservi
 
 ---
 
-### 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahanteshPatil1214&show_icons=true&theme=radical&count_private=true" alt="Mahantesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanteshPatil1214&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahanteshPatil1214&theme=radical" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
