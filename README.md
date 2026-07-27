@@ -1,6 +1,6 @@
 # Hi there, I'm Mahantesh Patil 👋
 
- Full-Stack & Backend Engineer specializing in Java 21, Spring Boot 3, Microservices, and Event-Driven Architectures. Passionate about building high-performance systems, graph analytics, and real-world AI integrations (Spring AI / MCP).
+Full-Stack & Backend Engineer specializing in Java 21, Spring Boot 3, Microservices, and Event-Driven Architectures. Passionate about building high-performance systems, graph analytics, and real-world AI integrations (Spring AI / MCP).
 
 ---
 
@@ -62,15 +62,15 @@
 
 📌 **Crime Analytics Platform**  
 *Java 21 | Spring Boot | Spring Cloud | Apache Kafka | Neo4j | PostGIS | Keycloak | React 18*
-* Architected an event-driven system powered by **12 Spring Boot microservices** and **8 Kafka topics** behind an API Gateway with Resilience4j circuit breakers[cite: 1].
-* Written **88 Neo4j Cypher queries** for criminal network graph traversal alongside **37 PostGIS spatial tables**[cite: 1].
-* Implemented zero-trust OAuth2/JWT security via Keycloak enforcing 20 RBAC rules, tamper-evident audit logs with chained HMAC seals, and AES-256-GCM encryption[cite: 1].
+* Architected an event-driven system powered by **12 Spring Boot microservices** and **8 Kafka topics** behind an API Gateway with Resilience4j circuit breakers.
+* Written **88 Neo4j Cypher queries** for criminal network graph traversal alongside **37 PostGIS spatial tables**.
+* Implemented zero-trust OAuth2/JWT security via Keycloak enforcing 20 RBAC rules, tamper-evident audit logs with chained HMAC seals, and AES-256-GCM encryption.
 
 📌 **NAVAM – Corporate Service & AI Platform**  
 *Spring Boot | React | MongoDB | Spring AI | Model Context Protocol (MCP) | Docker*
-* Built an intelligent project management platform featuring automated "Project Health Checks" using Spring AI and Gemini[cite: 1].
-* Integrated Model Context Protocol (MCP) to decouple LLM logic from data stores, lowering prompt overhead by 40%[cite: 1].
-* Achieved 85%+ unit test coverage using JUnit and Mockito[cite: 1].
+* Built an intelligent project management platform featuring automated "Project Health Checks" using Spring AI and Gemini.
+* Integrated Model Context Protocol (MCP) to decouple LLM logic from data stores, lowering prompt overhead by 40%.
+* Achieved 85%+ unit test coverage using JUnit and Mockito.
 
 ---
 
@@ -84,25 +84,15 @@
 
 ### 📊 GitHub Dashboard
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahanteshPatil1214&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanteshPatil1214&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahanteshPatil1214&show_icons=true&theme=radical&count_private=true" alt="Mahantesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanteshPatil1214&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahanteshPatil1214&theme=radical" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MahanteshPatil1214&theme=neon&hide_border=false" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahanteshPatil1214&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
