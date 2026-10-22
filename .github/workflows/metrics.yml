@@ -1,0 +1,65 @@
+name: Profile metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  # 1) PRs, reviews, comments, notable contributions -> github-metrics.svg
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # classic PAT: read:org, read:user, repo
+          user: MahanteshPatil1214
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_activity_filter: pr, review, comment, issue, push, release
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_notable: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_lines: yes
+          filename: github-metrics.svg
+
+  # 2) Contribution snake
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # 3) Recent activity list inside README
+  recent-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 8
