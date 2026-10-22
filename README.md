@@ -97,16 +97,6 @@ class Mahantesh:
 
 <img src="https://streak-stats.demolab.com?user=MahanteshPatil1214&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanteshPatil1214&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
-
-### 🔀 Pull Requests, Reviews & Comments
-
-<div align="center">
-
-<!-- Generated daily by .github/workflows/metrics.yml -->
-<img src="./github-metrics.svg" alt="PRs, reviews and comments" />
 
 </div>
 
