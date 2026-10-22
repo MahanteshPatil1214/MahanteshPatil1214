@@ -1,11 +1,8 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mahantesh%20Patil&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=20" alt="Mahantesh Patil" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LLM+agents+%C2%B7+RAG+pipelines+%C2%B7+FastAPI;Spring+Boot+microservices+%C2%B7+Kafka+%C2%B7+Resilience4j;Explainable%2C+well-tested+systems+for+real+problems)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MahanteshPatil1214&label=Profile+views&color=0e75b6&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/MahanteshPatil1214?style=flat-square&logo=github&label=Followers)
 ![Stars](https://img.shields.io/github/stars/MahanteshPatil1214?style=flat-square&logo=github&label=Stars)
 
@@ -71,20 +68,6 @@ class Mahantesh:
 **Measured:** 18/18 live queries returned citations · ~35 ms retrieval · ~1.5 s end-to-end
 
 </td>
-<td width="50%" valign="top">
-
-### 🌾 [Kisan Setu](https://github.com/OMKAR-tech-hub/TEAMAPEX_034)
-**Farmer Trust Passport** · 🏆 *IBM National Hackathon 2026, National Finalist*
-
-`Python` `FastAPI` `SQLAlchemy` `React` `Vite` `Tailwind` `pytest`
-
-- Backend that turns verified farm records into an **explainable credit profile** for smallholder farmers
-- Deterministic scoring engine: `acreage × yield × price × haircut`
-- **Consent gateway** with attribute masking and instant revocation
-- Milestone-based **tranche payments** to input vendors
-- **16 pytest tests** covering the backend
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -99,18 +82,7 @@ class Mahantesh:
 - Keycloak OAuth2/JWT with **20 RBAC rules**, tamper-evident audit logs (chained HMAC seals), **AES-256-GCM** encryption
 
 </td>
-<td width="50%" valign="top">
 
-### 🧭 NAVAM
-**Corporate service & AI platform**
-
-`Spring Boot` `React` `MongoDB` `Spring AI` `MCP` `Docker`
-
-- Automated **Project Health Checks** using Spring AI + Gemini
-- **Model Context Protocol** to decouple LLM logic from data stores, cutting prompt overhead by **40%**
-- **85%+ unit-test coverage** with JUnit and Mockito
-
-</td>
 </tr>
 </table>
 
@@ -138,13 +110,6 @@ class Mahantesh:
 
 </div>
 
-### 🕒 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -166,11 +131,7 @@ class Mahantesh:
 - ☁️ **AWS Academy Graduate**: Cloud Foundations (2025)
 - 🧩 **LeetCode:** 80 problems solved · **CodeChef:** 2★, highest rating 1530
 
-<div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/MahanteshPatil1214?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/MahanteshPatil1214/)
-
-</div>
 
 ---
 
