@@ -1,123 +1,193 @@
-# Hi there, I'm Mahantesh Patil 👋
+<!-- Banner -->
+<div align="center">
 
-AI & Backend Engineer building LLM agents, RAG pipelines, and reliable full-stack systems with Python, FastAPI, and React, plus Java 21 / Spring Boot microservices and event-driven architectures. I like turning real-world problems, like financial reconciliation and farm credit, into explainable, well-tested systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mahantesh%20Patil&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=20" alt="Mahantesh Patil" />
 
-🏆 National Finalist, IBM National Level Hackathon 2026 (Kisan Setu, Backend Engineer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LLM+agents+%C2%B7+RAG+pipelines+%C2%B7+FastAPI;Spring+Boot+microservices+%C2%B7+Kafka+%C2%B7+Resilience4j;Explainable%2C+well-tested+systems+for+real+problems)](https://git.io/typing-svg)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=MahanteshPatil1214&label=Profile+views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/MahanteshPatil1214?style=flat-square&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/MahanteshPatil1214?style=flat-square&logo=github&label=Stars)
 
-### 🚀 About Me
+**🏆 National Finalist, IBM National Level Hackathon 2026**
 
-- 🔭 **Currently working on:** LLM agent workflows (LangGraph), retrieval-augmented generation, and distributed backend services.
-- 💡 **Looking to collaborate on:** AI/ML-integrated web services, agentic systems, backend engineering, and open-source software.
-- 🎯 **Focus areas:** RAG and agent reliability (evidence checks, bounded retries, human review), REST API design, Spring Boot architecture (Spring Cloud, Resilience4j, Kafka), and graph/spatial data (Neo4j, PostGIS).
-- 🌱 **Learning & Exploring:** Kubernetes, system design (HLD/LLD), agent evaluation, and Model Context Protocol (MCP) integrations.
-- 💬 **Ask me about:** RAG with pgvector, LangGraph workflows, FastAPI, Spring Boot 3 microservices, React 18, and tech startups.
-- ⚡ **Fun Fact:** When I'm not building backends, you'll find me watching or discussing cricket, gaming, or exploring startup ideas.
+[Portfolio](https://mahanteshpatil1214.github.io/mahanteshpatil/) · [LinkedIn](https://linkedin.com/in/mahanteshpatil642) · [Email](mailto:patilmahantesh642@gmail.com) · [LeetCode](https://leetcode.com/u/MahanteshPatil1214/) · [CodeChef](https://www.codechef.com/users/patilmahantesh)
 
----
-
-### 💻 Tech Stack
-
-**Languages & Core:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) 
-![Cypher](https://img.shields.io/badge/Cypher_(Neo4j)-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-**AI & LLM:**  
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) 
-![Groq](https://img.shields.io/badge/Groq_LLM_API-F55036?style=flat-square) 
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) 
-![RAG](https://img.shields.io/badge/RAG-pgvector-316192?style=flat-square&logo=postgresql&logoColor=white) 
-![Spring AI](https://img.shields.io/badge/Spring_AI-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-
-**Backend:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) 
-![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) 
-![Resilience4j](https://img.shields.io/badge/Resilience4j-8B0000?style=flat-square) 
-![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=flat-square&logo=keycloak&logoColor=white)
-
-**Frontend & Mobile:**  
-![React 18](https://img.shields.io/badge/React_18-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Databases & Caching:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(pgvector_/_PostGIS)-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-
-**Testing, DevOps & Cloud:**  
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 🔥 Highlighted Projects
+## 👨‍💻 About
 
-📌 **[FinPilot AI](https://github.com/MahanteshPatil1214/FinPilot-AI) – AI-Powered Financial Operations Platform**  
-*Python | FastAPI | React | TypeScript | LangGraph | Groq | Sentence Transformers | PostgreSQL | pgvector*
-* Built a full-stack platform that combines document Q&A using RAG, transaction reconciliation, and LLM-assisted discrepancy investigation.
-* Designed a LangGraph agent workflow with evidence retrieval, validation, and human-review escalation, using evidence-sufficiency checks and capped retries to reduce unsupported answers.
-* Developed a PDF/CSV ingestion and RAG pipeline (semantic chunking, 384-dimensional embeddings, pgvector search); on 18 live queries every answer returned citations, with about 35 ms average retrieval and 1.5 s end to end.
-* Implemented reconciliation with Python `Decimal`; on a 55-transaction synthetic dataset with seeded partial, ambiguous, and unmatched cases, all 35 expected matches were linked correctly.
-* Added versioned human reviews and audit history for traceable decisions.
+I build **LLM agents, RAG pipelines, and reliable full-stack systems** with Python, FastAPI and React, plus **Java 21 / Spring Boot** microservices and event-driven architectures. I like turning messy real-world problems, such as financial reconciliation and farm credit, into **explainable, well-tested systems**.
 
-📌 **[Kisan Setu](https://github.com/OMKAR-tech-hub/TEAMAPEX_034) – Farmer Trust Passport Platform** (IBM National Level Hackathon 2026, National Finalist)  
-*Python | FastAPI | SQLAlchemy | React | Vite | Tailwind CSS | pytest*
-* Built the FastAPI and SQLAlchemy backend that turns verified farm records into an explainable credit profile for smallholder farmers.
-* Implemented a deterministic scoring engine (acreage × yield × price × haircut) and a consent gateway with attribute masking and instant revocation.
-* Added milestone-based tranche payments to input vendors and covered the backend with 16 pytest tests.
-
-📌 **Crime Analytics Platform**  
-*Java 21 | Spring Boot | Spring Cloud | Apache Kafka | Neo4j | PostGIS | Keycloak | React 18*
-* Architected an event-driven system powered by **12 Spring Boot microservices** and **8 Kafka topics** behind an API Gateway with Resilience4j circuit breakers.
-* Wrote **88 Neo4j Cypher queries** for criminal network graph traversal alongside **37 PostGIS spatial tables**.
-* Implemented zero-trust OAuth2/JWT security via Keycloak enforcing 20 RBAC rules, tamper-evident audit logs with chained HMAC seals, and AES-256-GCM encryption.
-
-📌 **NAVAM – Corporate Service & AI Platform**  
-*Spring Boot | React | MongoDB | Spring AI | Model Context Protocol (MCP) | Docker*
-* Built an intelligent project management platform featuring automated "Project Health Checks" using Spring AI and Gemini.
-* Integrated Model Context Protocol (MCP) to decouple LLM logic from data stores, lowering prompt overhead by 40%.
-* Achieved 85%+ unit test coverage using JUnit and Mockito.
+```python
+class Mahantesh:
+    role      = "AI & Backend Engineer"
+    based_in  = "Bengaluru, India 🇮🇳"
+    building  = ["LangGraph agent workflows", "RAG with pgvector", "Distributed backend services"]
+    cares_about = ["evidence-backed answers", "bounded retries", "human-in-the-loop review", "tests"]
+    learning  = ["Kubernetes", "System design (HLD/LLD)", "Agent evaluation", "MCP"]
+    open_to   = ["AI/ML web services", "agentic systems", "backend roles", "open source"]
+    off_duty  = ["cricket 🏏", "gaming 🎮", "startup ideas 🚀"]
+```
 
 ---
 
-### 🏅 Achievements & Coding
+## 🧰 Tech Stack
 
-- 🏆 National Finalist, IBM National Level Hackathon 2026
-- ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | AWS Academy Graduate: Cloud Foundations (2025)
-- 🧩 [LeetCode](https://leetcode.com/u/MahanteshPatil1214/): 80 problems solved | [CodeChef](https://www.codechef.com/users/patilmahantesh): 2-star, highest rating 1530
+<div align="center">
+
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **AI / LLM** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![pgvector](https://img.shields.io/badge/RAG_·_pgvector-316192?style=flat-square&logo=postgresql&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Resilience4j](https://img.shields.io/badge/Resilience4j-8B0000?style=flat-square) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_18-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) |
+| **Test / DevOps** | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [FinPilot AI](https://github.com/MahanteshPatil1214/FinPilot-AI)
+**AI-powered financial operations platform**
+
+`Python` `FastAPI` `React` `TypeScript` `LangGraph` `Groq` `pgvector`
+
+- RAG document Q&A + transaction reconciliation + LLM-assisted discrepancy investigation
+- **LangGraph agent** with evidence retrieval, validation, and human-review escalation; evidence-sufficiency checks and capped retries cut unsupported answers
+- PDF/CSV ingestion, semantic chunking, **384-dim embeddings**, pgvector search
+- Reconciliation in `Decimal`: **35/35 expected matches** linked on a 55-transaction synthetic set (partial, ambiguous, unmatched cases seeded)
+- Versioned human reviews + audit history
+
+**Measured:** 18/18 live queries returned citations · ~35 ms retrieval · ~1.5 s end-to-end
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [Kisan Setu](https://github.com/OMKAR-tech-hub/TEAMAPEX_034)
+**Farmer Trust Passport** · 🏆 *IBM National Hackathon 2026, National Finalist*
+
+`Python` `FastAPI` `SQLAlchemy` `React` `Vite` `Tailwind` `pytest`
+
+- Backend that turns verified farm records into an **explainable credit profile** for smallholder farmers
+- Deterministic scoring engine: `acreage × yield × price × haircut`
+- **Consent gateway** with attribute masking and instant revocation
+- Milestone-based **tranche payments** to input vendors
+- **16 pytest tests** covering the backend
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Crime Analytics Platform
+**Event-driven, zero-trust investigation system**
+
+`Java 21` `Spring Boot` `Spring Cloud` `Kafka` `Neo4j` `PostGIS` `Keycloak` `React 18`
+
+- **12 microservices** · **8 Kafka topics** behind an API Gateway with **Resilience4j** circuit breakers
+- **88 Cypher queries** for criminal-network traversal · **37 PostGIS** spatial tables
+- Keycloak OAuth2/JWT with **20 RBAC rules**, tamper-evident audit logs (chained HMAC seals), **AES-256-GCM** encryption
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 NAVAM
+**Corporate service & AI platform**
+
+`Spring Boot` `React` `MongoDB` `Spring AI` `MCP` `Docker`
+
+- Automated **Project Health Checks** using Spring AI + Gemini
+- **Model Context Protocol** to decouple LLM logic from data stores, cutting prompt overhead by **40%**
+- **85%+ unit-test coverage** with JUnit and Mockito
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahanteshPatil1214&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanteshPatil1214&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=MahanteshPatil1214&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanteshPatil1214&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+</div>
+
+### 🔀 Pull Requests, Reviews & Comments
+
+<div align="center">
+
+<!-- Generated daily by .github/workflows/metrics.yml -->
+<img src="./github-metrics.svg" alt="PRs, reviews and comments" />
+
+</div>
+
+### 🕒 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahanteshPatil1214/MahanteshPatil1214/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahanteshPatil1214/MahanteshPatil1214/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MahanteshPatil1214/MahanteshPatil1214/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+- 🏆 **National Finalist**, IBM National Level Hackathon 2026 (Kisan Setu, Backend Engineer)
+- ☁️ **Oracle Cloud Infrastructure 2025** Certified AI Foundations Associate
+- ☁️ **AWS Academy Graduate**: Cloud Foundations (2025)
+- 🧩 **LeetCode:** 80 problems solved · **CodeChef:** 2★, highest rating 1530
+
+<div align="center">
+
+[![LeetCode](https://leetcard.jacoblin.cool/MahanteshPatil1214?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/MahanteshPatil1214/)
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+`RAG with pgvector` · `LangGraph workflows` · `FastAPI` · `Spring Boot 3 microservices` · `React 18` · `Tech startups` · `Cricket 🏏`
+
+## 🤝 Let's Collaborate
+
+I'm open to **AI/ML-integrated web services, agentic systems, backend engineering and open-source work**. If you're building something where reliability and explainability matter, reach out.
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanteshpatil642)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://mahanteshpatil1214.github.io/mahanteshpatil/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilmahantesh642@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahanteshPatil1214)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+</div>
