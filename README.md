@@ -1,144 +1,18 @@
-<!-- Banner -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LLM+agents+%C2%B7+RAG+pipelines+%C2%B7+FastAPI;Spring+Boot+microservices+%C2%B7+Kafka+%C2%B7+Resilience4j;Explainable%2C+well-tested+systems+for+real+problems)](https://git.io/typing-svg)
-
-![Followers](https://img.shields.io/github/followers/MahanteshPatil1214?style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/MahanteshPatil1214?style=flat-square&logo=github&label=Stars)
-
-**🏆 National Finalist, IBM National Level Hackathon 2026**
-
-[Portfolio](https://mahanteshpatil1214.github.io/mahanteshpatil/) · [LinkedIn](https://linkedin.com/in/mahanteshpatil642) · [Email](mailto:patilmahantesh642@gmail.com) · [LeetCode](https://leetcode.com/u/MahanteshPatil1214/) · [CodeChef](https://www.codechef.com/users/patilmahantesh)
-
-</div>
-
----
-
-## 👨‍💻 About
-
-I build **LLM agents, RAG pipelines, and reliable full-stack systems** with Python, FastAPI and React, plus **Java 21 / Spring Boot** microservices and event-driven architectures. I like turning messy real-world problems, such as financial reconciliation and farm credit, into **explainable, well-tested systems**.
-
-```python
-class Mahantesh:
-    role      = "AI & Backend Engineer"
-    based_in  = "Bengaluru, India 🇮🇳"
-    building  = ["LangGraph agent workflows", "RAG with pgvector", "Distributed backend services"]
-    cares_about = ["evidence-backed answers", "bounded retries", "human-in-the-loop review", "tests"]
-    learning  = ["Kubernetes", "System design (HLD/LLD)", "Agent evaluation", "MCP"]
-    open_to   = ["AI/ML web services", "agentic systems", "backend roles", "open source"]
-    off_duty  = ["cricket 🏏", "gaming 🎮", "startup ideas 🚀"]
-```
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-| | |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
-| **AI / LLM** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![pgvector](https://img.shields.io/badge/RAG_·_pgvector-316192?style=flat-square&logo=postgresql&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Resilience4j](https://img.shields.io/badge/Resilience4j-8B0000?style=flat-square) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React_18-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) |
-| **Test / DevOps** | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [FinPilot AI](https://github.com/MahanteshPatil1214/FinPilot-AI)
-**AI-powered financial operations platform**
-
-`Python` `FastAPI` `React` `TypeScript` `LangGraph` `Groq` `pgvector`
-
-- RAG document Q&A + transaction reconciliation + LLM-assisted discrepancy investigation
-- **LangGraph agent** with evidence retrieval, validation, and human-review escalation; evidence-sufficiency checks and capped retries cut unsupported answers
-- PDF/CSV ingestion, semantic chunking, **384-dim embeddings**, pgvector search
-- Reconciliation in `Decimal`: **35/35 expected matches** linked on a 55-transaction synthetic set (partial, ambiguous, unmatched cases seeded)
-- Versioned human reviews + audit history
-
-**Measured:** 18/18 live queries returned citations · ~35 ms retrieval · ~1.5 s end-to-end
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🕵️ Crime Analytics Platform
-**Event-driven, zero-trust investigation system**
-
-`Java 21` `Spring Boot` `Spring Cloud` `Kafka` `Neo4j` `PostGIS` `Keycloak` `React 18`
-
-- **12 microservices** · **8 Kafka topics** behind an API Gateway with **Resilience4j** circuit breakers
-- **88 Cypher queries** for criminal-network traversal · **37 PostGIS** spatial tables
-- Keycloak OAuth2/JWT with **20 RBAC rules**, tamper-evident audit logs (chained HMAC seals), **AES-256-GCM** encryption
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahanteshPatil1214&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanteshPatil1214&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=MahanteshPatil1214&theme=tokyonight&hide_border=true" alt="Streak" />
+## About Me:
+I'm an aspiring Software Developer passionate about building real-world applications and solving problems through technology.<br><br>I work with Python, Java, FastAPI, React, TypeScript, and PostgreSQL, with a growing interest in Artificial Intelligence, Large Language Models (LLMs), RAG, and Agentic AI.<br><br>I enjoy developing full-stack applications, designing backend systems, working with databases, and exploring new technologies. I believe in continuous learning, practical implementation, and writing clean, maintainable code.<br><br>I'm always eager to learn, collaborate, take on new challenges, and grow as a software engineer.
 
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_mahantesh_patil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanteshpatil642) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilmahantesh642@gmail.com) 
 
-## 🐍 Contribution Snake
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MahanteshPatil1214&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MahanteshPatil1214&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MahanteshPatil1214&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahanteshPatil1214/MahanteshPatil1214/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahanteshPatil1214/MahanteshPatil1214/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MahanteshPatil1214/MahanteshPatil1214/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🏅 Achievements
-
-- 🏆 **National Finalist**, IBM National Level Hackathon 2026 (Kisan Setu, Backend Engineer)
-- ☁️ **Oracle Cloud Infrastructure 2025** Certified AI Foundations Associate
-- ☁️ **AWS Academy Graduate**: Cloud Foundations (2025)
-- 🧩 **LeetCode:** 80 problems solved · **CodeChef:** 2★, highest rating 1530
-
-
-
----
-
-## 💬 Ask Me About
-
-`RAG with pgvector` · `LangGraph workflows` · `FastAPI` · `Spring Boot 3 microservices` · `React 18` · `Tech startups` · `Cricket 🏏`
-
-## 🤝 Let's Collaborate
-
-I'm open to **AI/ML-integrated web services, agentic systems, backend engineering and open-source work**. If you're building something where reliability and explainability matter, reach out.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanteshpatil642)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://mahanteshpatil1214.github.io/mahanteshpatil/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilmahantesh642@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
